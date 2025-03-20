@@ -67,3 +67,11 @@ parts:
   chapters:
   - file: 13/slices.pdf
   - file: 13/lab
+- caption: ODE integrators I
+  chapters:
+  - file: 14/notes
+  - file: 14/lab
+  - file: 14/sol
+- caption: ODE integrators II
+  chapters:
+  - file: 15/notes
